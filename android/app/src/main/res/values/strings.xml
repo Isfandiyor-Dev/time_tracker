@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Tracker</string>
+    <string name="notification_channel_name">Active timer</string>
+    <string name="notification_channel_description">Work timer and quick actions</string>
+    <string name="notification_break">Break</string>
+    <string name="notification_end_break">End break</string>
+    <string name="notification_punch_out">Punch out</string>
+</resources>

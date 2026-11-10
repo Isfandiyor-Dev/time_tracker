@@ -1,0 +1,1 @@
+C:\Dev\Projects\time_tracker\build\jni\intermediates\cxx\Debug\43l4z6c5\obj\x86_64

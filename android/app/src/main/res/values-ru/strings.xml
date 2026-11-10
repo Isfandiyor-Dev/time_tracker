@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Учёт времени</string>
+    <string name="notification_channel_name">Активный таймер</string>
+    <string name="notification_channel_description">Рабочий таймер и быстрые действия</string>
+    <string name="notification_break">Перерыв</string>
+    <string name="notification_end_break">Продолжить</string>
+    <string name="notification_punch_out">Завершить</string>
+</resources>

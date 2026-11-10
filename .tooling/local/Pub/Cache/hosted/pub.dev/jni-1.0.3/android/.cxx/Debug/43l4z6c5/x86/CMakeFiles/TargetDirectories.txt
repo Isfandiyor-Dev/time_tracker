@@ -1,0 +1,3 @@
+C:/Dev/Projects/time_tracker/.tooling/local/Pub/Cache/hosted/pub.dev/jni-1.0.3/android/.cxx/Debug/43l4z6c5/x86/CMakeFiles/jni.dir
+C:/Dev/Projects/time_tracker/.tooling/local/Pub/Cache/hosted/pub.dev/jni-1.0.3/android/.cxx/Debug/43l4z6c5/x86/CMakeFiles/edit_cache.dir
+C:/Dev/Projects/time_tracker/.tooling/local/Pub/Cache/hosted/pub.dev/jni-1.0.3/android/.cxx/Debug/43l4z6c5/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+C:\Dev\Projects\time_tracker\.tooling\local\Pub\Cache\hosted\pub.dev\jni-1.0.3\src\CMakeLists.txt

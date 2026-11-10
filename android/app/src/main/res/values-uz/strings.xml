@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vaqt hisoblagich</string>
+    <string name="notification_channel_name">Faol taymer</string>
+    <string name="notification_channel_description">Ish taymeri va tezkor amallar</string>
+    <string name="notification_break">Tanaffus</string>
+    <string name="notification_end_break">Davom etish</string>
+    <string name="notification_punch_out">Tugatish</string>
+</resources>

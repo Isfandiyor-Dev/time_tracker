@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notification_root"
+    android:layout_width="match_parent"
+    android:layout_height="54dp"
+    android:background="@null"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="4dp"
+    android:paddingTop="4dp"
+    android:paddingEnd="4dp"
+    android:paddingBottom="4dp">
+
+    <FrameLayout
+        android:id="@+id/status_badge"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="2dp"
+        android:background="@drawable/notification_status_work">
+
+        <ImageView
+            android:id="@+id/status_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:contentDescription="@null"
+            android:src="@drawable/ic_notification_work" />
+    </FrameLayout>
+
+    <Chronometer
+        android:id="@+id/timer_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_weight="1"
+        android:fontFamily="monospace"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        android:maxLines="1"
+        android:textColor="#FFF8FA"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/punch_out_compact"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/notification_compact_danger"
+        android:contentDescription="Punch out"
+        android:padding="7dp"
+        android:src="@drawable/ic_notification_stop" />
+
+    <ImageView
+        android:id="@+id/break_compact"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="5dp"
+        android:background="@drawable/notification_compact_outline"
+        android:contentDescription="Break"
+        android:padding="7dp"
+        android:src="@drawable/ic_notification_break" />
+
+</LinearLayout>
